@@ -97,6 +97,7 @@
     <Compile Include="Assets\NCMB\Script\SimpleJSON.cs" />
     <Compile Include="Assets\Scripts\DataFetch.cs" />
     <Compile Include="Assets\Scripts\DataSave.cs" />
+    <Compile Include="Assets\Scripts\UserAuth.cs" />
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>C:/workspace/unity/NCMBTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
